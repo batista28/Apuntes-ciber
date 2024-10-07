@@ -15,3 +15,17 @@ delitos :
 5-estafa por internet
 6-hacking,cracking o sabotaje informatico
 7-delitos relacionaod 
+
+
+# Dicha normativa tiene como finalidades:
+1)Fijar las directrices generales dé l uso seguro del ciberespacio.
+2)Conseguir un adecuado  marco normativo que proporcione una mayor confianza en el uso de las tecnologías de la información y comunicación.
+
+El objetivo es que al realizar una gestión eficaz de los riesgos derivados.
+
+# PSD2:Conexiones seguras
+
+Máxima seguridad en todas tus conexiones 
+
+# TE HA JODIDO LO DE VIRUS EH
+

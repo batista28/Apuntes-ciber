@@ -12,4 +12,4 @@ Cambio los métodos por unos equivalentes y me da el mismo resultado.
 <span style="color:rgb(100, 129, 96)">BO.RAW:</span>
 es un archivo de una captura de memoria RAM
 
-En el registor de windows tenenmos los hives
+En el registro de Windows tenemos los hives
