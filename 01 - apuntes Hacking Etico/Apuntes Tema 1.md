@@ -84,3 +84,7 @@ Ahi haremos la escala de privilegio
 
 
 
+cve -certificado de lavulnevilidad
+
+cvss-puntuacion
+

@@ -1,7 +1,6 @@
-**Se pide un mínimo de 3 dominios a probar para cada una de las herramientas. El objetivo es tener datos interesantes.  
-**
 
-**Ejercicio 1:** La herramienta whois es muy útil cuando debemos obtener información sobre un dominio sin que pueda ser detectado por el blue team de este dominio. Esta herramienta está disponible para su uso tanto por consola como desde la web de domaintools.com. Haz pruebas empleando tanto la herramienta por consola como a través de la web.
+
+# Ejercicio 1: La herramienta whois es muy útil cuando debemos obtener información sobre un dominio sin que pueda ser detectado por el blue team de este dominio. Esta herramienta está disponible para su uso tanto por consola como desde la web de domaintools.com. Haz pruebas empleando tanto la herramienta por consola como a través de la web.
 
 Yo utilizare cuatro dominio diferentes siendo estos los siguientes:
 - **urbanroosters.com**
@@ -10,13 +9,16 @@ Yo utilizare cuatro dominio diferentes siendo estos los siguientes:
 - **grazalema.es**
 en este ejercicio desde Kali utilizamos el comando whois para que nos de algo de información, A continuación se añadirá varias de las búsquedas realizadas de algunos de los dominios buscado desde el comando y otro dominio lo hemos buscado desde la pagina web de whois.
 ![[Pasted image 20241003202018.png]]
+captura relacionada a la búsqueda de dominio:<span style="color:rgb(100, 132, 96)">espinof.com</span>
 
 ![[Pasted image 20241003202336.png]]
+captura relacionada a la búsqueda de dominio:<span style="color:rgb(100, 132, 96)">urbanroosters.com</span>
 
 ![[Pasted image 20241003202728.png]]
+captura relacionada a la búsqueda de dominio:<span style="color:rgb(100, 132, 96)">libnamic.com</span>
 
 ![[Pasted image 20241004173937.png]]
-despues de este apartado hemos conseuido algunas direcciones de esos dominios gracia a whois
+después de este apartado hemos conseguido algunas direcciones de esos dominios gracia a whois
 
 espinof.com-hemos scado cuatro direcciones ip siendo las siguientes:
 ![[Pasted image 20241004175103.png]]
@@ -34,31 +36,7 @@ de los otros dominios no he sacado información relevante
 ![[Pasted image 20241003203445.png]]
 
 ![[Pasted image 20241004174151.png]]
-**Ejercicio 3:** En este ejercicio vamos a aprender el uso de la herramienta theHarvester.
-
-  theHarvester
-Para emplear esta herramienta vamos a necesitar de una distribución GNU/Linux basada en Debian, como Debian, Ubuntu, Linux Mint, o Kali Linux. Se recomienda fuertemente emplear Kali Linux, pues viene por defecto instalada en ella, y el proceso de instalación no es sencillo en otras.  
-  
-[https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester)  
-  
-Y para su instalación: [https://github.com/laramies/theHarvester/wiki/Installation](https://github.com/laramies/theHarvester/wiki/Installation)  
-  
-Si usáis la Kali ya debe estar instalado.  
-  
-Una vez instalado theHarvester vamos a comenzar con algunos comandos. Si el proceso de instalación ha ido bien, al escribir “theHarvester --version” debe indicarte que usas la versión 3.x.x (por ejemplo, yo tengo la 3.2 en el momento de escribir esto).  
-  
-Una vez instalado procederemos a buscar información del dominio juntadeandalucia.es en Google.  
-  
-theHarvester -d juntadeandalucia.es -l 100 -b google  
-  
--d indica el dominio sobre el que buscar  
-  
--l indica la cantidad de resultados máxima que queremos obtener  
-  
--b indica el buscador con el que realizar la búsqueda  
-  
-  
-Además es posible hacer que los resultados los vuelque en un archivo con “-f <nombre_archivo>”.  
+th
 
   ![[Pasted image 20241003203633.png]]the
   

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Normativas/Normativas.md",
+                "file": "01 - apuntes Hacking Etico/Apuntes Tema 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Normativas/Normativas.md",
+                "file": "01 - apuntes Hacking Etico/Apuntes Tema 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Normativas/Normativas.md",
+                "file": "01 - apuntes Hacking Etico/Apuntes Tema 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Normativas/Normativas.md"
+                "file": "01 - apuntes Hacking Etico/Apuntes Tema 1.md"
               }
             }
           },
@@ -182,40 +182,42 @@
   },
   "active": "6ca942e70732436c",
   "lastOpenFiles": [
+    "02 - Incidentes de Ciberseguridad/Sin título.md",
+    "Pasted image 20241010181102.png",
+    "Pasted image 20241010180726.png",
+    "Pasted image 20241010180111.png",
+    "Pasted image 20241010175853.png",
+    "Pasted image 20241010175537.png",
+    "Pasted image 20241010175441.png",
+    "Pasted image 20241010175342.png",
+    "Pasted image 20241010174956.png",
+    "Pasted image 20241010174756.png",
+    "Pasted image 20241010174727.png",
+    "02 - Incidentes de Ciberseguridad/Tema 1_Principios Generales de ciberseguridad.md",
+    "01 - apuntes Hacking Etico/Práctica 1.1 - Information Gathering-Antonio Jesús Batista Sánchez.md",
+    "02 - Incidentes de Ciberseguridad/PPractica 1.0 de incidentes de ciberseguridad/Practica 1.0 de incidentes de ciberseguridad-Antonio Jesús Batista Sánchez.md",
+    "01 - apuntes Hacking Etico/Apuntes Tema 1.md",
+    "03 - Normativas/Normativas.md",
     "00  - Analisis informatico forense/Gestión de evidencias digitales & informática forense.md",
     "Ejercicio.md",
     "Incidente de ciberseguridad.md",
     "Sin título.md",
     "07 - img",
-    "07 - img/Pasted image 20241003164505.png",
     "05 - Puesta en Producción Segura/tema 1.md",
     "00  - Analisis informatico forense/Sin título.md",
-    "03 - Normativas/Normativas.md",
     "05 - Puesta en Producción Segura",
     "04 - Bastionado de Redes y Sistemas",
-    "07 - img/Pasted image 20241003202336.png",
     "03 - Normativas",
     "02 - Incidentes de Ciberseguridad",
-    "07 - img/Pasted image 20241003172320.png",
-    "07 - img/Pasted image 20241003171545.png",
-    "07 - img/Pasted image 20241003165807.png",
-    "07 - img/Pasted image 20241003165632.png",
-    "01 - apuntes Hacking Etico/Práctica 1.1 - Information Gathering-Antonio Jesús Batista Sánchez.md",
     "TEMA 1.md",
     "Excalidraw/Drawing 2024-10-07 16.07.17.excalidraw.md",
-    "01 - apuntes Hacking Etico/Apuntes Tema 1.md",
     "00  - Analisis informatico forense",
-    "07 - img/Pasted image 20241004192821.png",
     "011 - Excalidraw/Drawing 2024-10-04 19.23.52.excalidraw.md",
     "011 - Excalidraw/Drawing 2024-10-04 18.30.51.excalidraw.md",
     "011 - Excalidraw/Drawing 2024-10-04 18.25.18.excalidraw.md",
-    "07 - img/Pasted image 20241004184438.png",
     "011 - Excalidraw/Drawing 2024-10-04 18.35.23.excalidraw.md",
-    "07 - img/Pasted image 20241004184135.png",
-    "07 - img/Pasted image 20241004184117.png",
     "011 - Excalidraw/Drawing 2024-10-03 16.35.13.excalidraw.md",
     "Puesta Produccion",
-    "02 - Incidentes de Ciberseguridad/PPractica 1.0 de incidentes de ciberseguridad/Practica 1.0 de incidentes de ciberseguridad-Antonio Jesús Batista Sánchez.md",
     "02 - Incidentes de Ciberseguridad/PPractica 1.0 de incidentes de ciberseguridad",
     "2024-W40.md",
     "Practica 1.0 de incidentes de ciberseguridad-Antonio Jesús Batista Sánchez 1.md",
